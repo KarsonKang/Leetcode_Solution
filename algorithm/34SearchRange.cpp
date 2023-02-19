@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 
+using namespace std;
 
 //花了较长时间才搞清楚为什么 ans = mid 这句代码放置的位置非常重要
 class Solution { 

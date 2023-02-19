@@ -1,6 +1,7 @@
 #include<iostream>
 #include<vector>
 
+using namespace std;
 class Solution {
 public:
     //定义三个数组记录每行，每列，每个子宫格中数字的出现情况

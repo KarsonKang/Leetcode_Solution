@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-
+using namespace std;
 class Solution{
 public:
     //二分法的应用
@@ -25,4 +25,4 @@ public:
         
         return mid + 1;             //当最大值都比目标值小时，将target插入数组的最后。
     }
-}
+};
